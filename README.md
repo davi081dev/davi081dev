@@ -1,5 +1,7 @@
 # 💫 About Me:
-                    Olá meu nome é Davi Lucas, sou estudante da Cesar School,<br> em Análise e desenvolvimento de sistemas e aqui ficará <br>  armazenado projetos pessoais e projetos da faculdade
+            Olá meu nome é Davi Lucas, sou estudante da Cesar School,
+            em Análise e desenvolvimento de sistemas e aqui ficará   
+            armazenado projetos pessoais e projetos da faculdade
 
 
 ## 🌐 Socials:
